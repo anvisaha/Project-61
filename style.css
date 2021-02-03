@@ -1,0 +1,60 @@
+body {
+  text-align: center;
+    background-repeat:no-repeat;
+}
+#read {
+  border-radius: 50%;
+  width: 300px;
+    height: 300px;
+  margin-top: 150px;
+    margin-right: 200px;
+}
+h1 {
+text-shadow: 2px 2px #F8BBDO;
+  font-size: 40px;
+    font-family: 'Yusei Magic', sans-serif;
+}
+p {
+  font-size: 18px;
+  color:black;
+}
+#bio {
+  padding:20px;
+  font-size:18px;
+  text-align:center;
+}
+
+.link { 
+    padding-left: 33px; 
+    padding-right: 25px; 
+    font-family: fantasy; 
+    font-size: 20px;
+    float: left;
+}
+.link a {
+    display: block;
+    padding: 8px;
+}
+#welcome {
+  background: linear-gradient(#eb4f34 0%, #ff5eaf 100%);
+  text-align: center;
+}
+html {
+    scroll-behavior: smooth;
+}
+.link:hover {
+background-color: cornflowerblue;
+}
+#inspiration {
+    width: 300px;
+    height: 300px;
+  margin-bottom: 50px;
+    margin-left: 450px;
+}
+#charles {
+    width: 300px;
+    height: 300px;
+  margin-bottom: 50px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
